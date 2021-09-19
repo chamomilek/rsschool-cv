@@ -11,16 +11,17 @@
 <h3>Skills:</h3> C++, Java
 
 <h3>Code examples:</h3> :man_technologist:
-```
-buttonReset.addActionListener(new ActionListener() {
+
+
+```buttonReset.addActionListener(new ActionListener() {
 public void actionPerformed(ActionEvent ev) {
 textFieldX.setText("0");
 textFieldY.setText("0");
 textFieldZ.setText("0");
 textFieldResult.setText("0");
 }
-});
-```
+});```
+
 
 <h3>Education:</h3> Lectures on C++ and Java at a higher education institution.
 
