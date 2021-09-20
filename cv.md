@@ -1,6 +1,6 @@
-<h2>:blossom: KARINA OSOPRILKO :blossom:</h2>
+<h2> KARINA OSOPRILKO </h2>
 
-<h3>Contact Info :sunglasses::</h3>
+<h3>Contact Info:</h3>
 
 * Email: chamomillekk@gmail.com
 * Telegram: @chamomilek
