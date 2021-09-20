@@ -1,11 +1,124 @@
+ul {
+    list-style: none;
+    margin: 0px;
+  }
+  .about ul {
+    padding-left: 50px;
+  }
+
 main{
     position: relative;
     max-width: 1000px;
     min-height: 1000px;
     margin: 50px auto;
   
-    background-color: #dda5d1;
+    background-color: #b9dbe2;
     box-shadow: 1px 1px 7px 3px rgba(102, 102, 136, 0.5);
   }
 
+.img-photo {
+  border-radius: 50%;
+  box-shadow: 1px 1px 7px 3px rgba(186, 186, 243, 0.5);
+}
+.img-header {
+  font-size: 20px;
+  color: #0a0a08;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+  .container {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
   
+  .section left {
+    position: relative;
+    color: white;
+    font-family: 'Noto Sans TC', sans-serif;
+    width: 320px;
+    padding-right: 5px;
+    background-color: rgb(0, 61, 115);
+  }
+
+  .contacts,
+.Skills {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.contacts-text,
+.skills-text {
+  padding-left: 15px;
+  font-size: 16px;
+  margin: 15px 0px 0px 0px;
+}
+
+.section right {
+    padding: 10px 0px;
+  }
+
+  .Summary {
+    color: rgb(0, 0, 0);
+    max-width: 510px;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  .Languages {
+    color: rgb(0, 0, 0);
+    max-width: 510px;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  .english_level{
+    display: inline-block;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: #f1da9d;
+    padding: 2px;
+    background-color: #0e0e46;
+    border-radius: 50%
+  }
+
+  .Education
+  {
+    color: rgb(0, 0, 0);
+    max-width: 510px;
+    font-family: 'Noto Sans TC', sans-serif; 
+  }
+
+  .University
+  {
+    color: rgb(0, 0, 0);
+    max-width: 510px;
+    font-family: 'Noto Sans TC', sans-serif;  
+  }
+
+  .line::after{
+    content: "";
+    display: block;
+    width: 35px;
+    height: 1px;
+    background-color: #b9dbe2;
+  }
+
+  .js {
+    font-size: 14px;
+  }
+
+  footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    height: 60px;
+    background-color: #f1da9d;
+    box-shadow: 1px 1px 7px 3px rgba(102, 102, 136, 0.5);
+  }
+  
+
