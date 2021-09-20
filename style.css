@@ -1,0 +1,11 @@
+main{
+    position: relative;
+    max-width: 1000px;
+    min-height: 1000px;
+    margin: 50px auto;
+  
+    background-color: #dda5d1;
+    box-shadow: 1px 1px 7px 3px rgba(102, 102, 136, 0.5);
+  }
+
+  
